@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\DELL\source\repos\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\DELL\source\repos\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.DangNhap.resources
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.FormNhanVien.resources
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\DELL\source\repos\PBL3\PBL3\obj\Debug\PBL3.pdb
